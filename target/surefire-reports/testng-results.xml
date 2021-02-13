@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-10T16:43:24 IST" name="Suite" finished-at="2021-02-10T16:43:24 IST" duration-ms="55">
+    <groups>
+    </groups>
+    <test started-at="2021-02-10T16:43:24 IST" name="Test" finished-at="2021-02-10T16:43:24 IST" duration-ms="55">
+      <class name="rahulshetty.AppiumTest">
+        <test-method signature="div()[pri:0, instance:rahulshetty.AppiumTest@687e99d8]" started-at="2021-02-10T16:43:24 IST" name="div" finished-at="2021-02-10T16:43:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method signature="mul()[pri:0, instance:rahulshetty.AppiumTest@687e99d8]" started-at="2021-02-10T16:43:24 IST" name="mul" finished-at="2021-02-10T16:43:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+      </class> <!-- rahulshetty.AppiumTest -->
+      <class name="rahulshetty.SeleniumTest">
+        <test-method signature="sub()[pri:0, instance:rahulshetty.SeleniumTest@e4487af]" started-at="2021-02-10T16:43:24 IST" name="sub" finished-at="2021-02-10T16:43:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method signature="sum()[pri:0, instance:rahulshetty.SeleniumTest@e4487af]" started-at="2021-02-10T16:43:24 IST" name="sum" finished-at="2021-02-10T16:43:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- rahulshetty.SeleniumTest -->
+      <class name="rahulshetty.RestApiTest">
+        <test-method signature="hare()[pri:0, instance:rahulshetty.RestApiTest@6aaceffd]" started-at="2021-02-10T16:43:24 IST" name="hare" finished-at="2021-02-10T16:43:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hare -->
+        <test-method signature="champ()[pri:0, instance:rahulshetty.RestApiTest@6aaceffd]" started-at="2021-02-10T16:43:24 IST" name="champ" finished-at="2021-02-10T16:43:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- champ -->
+      </class> <!-- rahulshetty.RestApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
